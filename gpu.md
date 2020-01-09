@@ -8,3 +8,5 @@
 
 [https:\/\/github.com\/facebookresearch\/deepmask](https://github.com/facebookresearch/deepmask)
 
+[https:\/\/github.com\/nbei\/Deep-Flow-Guided-Video-Inpainting](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting) 
+
